@@ -10,3 +10,6 @@ If you don't have live-server installed already, try install using the below cod
 Navigate to the project folder using cmd line, then start server by running the below code.
 
 ***live-server***
+
+## Acknowledgement
+Mohamed Yaieeshu Muthalif
